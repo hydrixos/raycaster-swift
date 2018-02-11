@@ -1,0 +1,33 @@
+B B                                                                            Y
+BBBBB BBBBBBBBBYYYYYYYYYYYYRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+B             RY          Y                                              R
+B             RY          Y                          YYY       B         R
+B             RY          Y                            B       B         R
+B                                  OYRYRYR RYRYRO      Y       B         R     Y   Y
+B             RY          Y        O            O      B       B         R
+B             RY          Y        O            O      Y       B         R Y   Y   Y   Y   RRRRRRRRR
+BBBBBBB BBBBBBBYYYYYYYYYYYY        OGYGYGY GYGYGO      B       BBBBB BBBBB                 R   Y   R
+RRRRRRR RRRRRRRRRRRRRRRRRRR        O            O      Y                 B Y   Y   Y   Y   R      YR
+R                                  O            O      B       Y                               O   R
+R                                  OBYBYBY BYBYBO      Y       Y         B Y   Y   Y   Y   R      YR
+OOOOOOOOOOOOO  OOOOOOOOOOOO        O            O      B       Y         B                 R   Y   R
+R                                  O            O      Y       Y         B Y   Y   Y   Y   RRRRRRRRR
+R                         Y        ORRRRRR RRRRRO      B       Y         B
+R  GGGGGGGGGGGGGGGGGGGG   Y        O            O      Y       YYYYYYYYYYY     Y   Y
+R  BBBBBBBBBBBBBBBBBBBB   Y        O            O      B                 Y
+R                         Y        YYYYYY YYYYYYY      Y       G         Y
+R                         Y  R                       RRR       G         Y
+RRRRRRRRRRRRRR  RRRRRRRRRRR  R                                 G         Y
+O                         R  R R R R R R R R R R R R R B       G         Y
+O OYY B RRRRRRRR  RRRRRR  RR RRRRRRRRRRRRRRRRRRRRRRRRR R       G         Y
+O O Y B R      B  R    R     R         B             R B       GGGGGGGGGGG
+O O Y B R RRRR B  R    RRRRRRR  BBBBB  B RRRRRRRRRR  R R       R
+O O Y B R    R B  R             B   B  B  R       R  R B       O
+O   Y B RRRRRR B  RRRRRR YYYYYYYY   B  B  R RRRRRRR  R R       R
+O O Y B        B                    B  B  R R        R B       O
+O O Y BBBBBBBBBBYYRRRRRRRRRRRR YYYY B  B  R R  RRRRR R R       RR
+O O Y                          Y    B  B  R R        R B                           Y
+O O RRRRRRRRRRRRRRRRRRRRRRRRRR YRRRRB  B  R RRRR RRRRR R       RR
+O O                                       R            B       O
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  RRRR
+G  G
