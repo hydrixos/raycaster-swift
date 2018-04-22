@@ -41,8 +41,3 @@ extension Color {
 	static var yellow = Color(red: 255, green: 184, blue: 0)
 	static var orange = Color(red: 255, green: 80, blue: 0)
 }
-
-/// Compares two colors on all components.
-func ==(lhs: Color, rhs: Color) -> Bool {
-	return lhs.red == rhs.red && lhs.green == rhs.green && lhs.blue == rhs.blue
-}

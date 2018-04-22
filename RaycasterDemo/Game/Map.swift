@@ -84,24 +84,12 @@ struct Map {
 
 extension Map {
 	/// Describes an tile on the map
-	enum Tile : Equatable {
+	enum Tile {
 		/// The tile is empty.
 		case empty
 		
 		/// The tile contains a wall with a certain color.
 		case wall(color: Color)
-
-		/// Compares two tiles inside the map. Two tiles are equal, iff. they are either both empty or both contain a wall with the same color.
-		static func ==(lhs: Tile, rhs: Tile) -> Bool {
-			switch (lhs, rhs) {
-				case (.empty, .empty):
-					return true
-				case (let .wall(colorA), let .wall(colorB)):
-					return colorA == colorB
-				default:
-					return false;
-			}
-		}
 		
 		/// The position of a tile within the map
 		struct Position {
